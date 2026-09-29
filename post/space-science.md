@@ -1,6 +1,6 @@
 <!-- menu -->
 
-|[Home](https://namlete102.github.io/write-collection-mathematics/)|[Archive](https://namlete102.github.io/write-collection-mathematics/archive.html)|[Tag](https://namlete102.github.io/write-collection-mathematics/tag.html)|[About](https://namlete102.github.io/write-collection-mathematics/about.html)|
+|[Home](https://namlete102.github.io/write-collection-mathematics/)|[Archive](https://namlete102.github.io/write-collection-mathematics/archive.html)|[Tag](https://namlete102.github.io/write-collection-mathematics/tag.html)|
 
 <!-- title -->
 

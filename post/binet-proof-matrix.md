@@ -1,6 +1,7 @@
 <!-- menu -->
 
-|[Home](https://namlete102.github.io/write-collection-mathematics/)|[Archive](https://namlete102.github.io/write-collection-mathematics/archive.html)|[Tag](https://namlete102.github.io/write-collection-mathematics/tag.html)|[About](https://namlete102.github.io/write-collection-mathematics/about.html)|
+|[Home](https://namlete102.github.io/write-collection-mathematics/)|[Archive](https://namlete102.github.io/write-collection-mathematics/archive.html)|[Tag](https://namlete102.github.io/write-collection-mathematics/tag.html)|
+
 <!-- title -->
 
 <div align="center">
@@ -34,10 +35,6 @@
     .
     <a href="https://namlete102.github.io/Namleteblog.github.io/aboutme.html" target="_blank" style="padding-left: 2px;">Contact</a>
 <center>
-
-<center>
-© 2026 Namlete
-</center>
 
 <center>
 © 2026 Namlete
