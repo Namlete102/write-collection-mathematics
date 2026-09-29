@@ -1,4 +1,8 @@
-|[Trang chủ]|[Lưu trữ](./archive.md)|[Thẻ](./tag.md)|[Giới thiệu](./about.md)|
+<!-- menu -->
+
+|[Home](./README.md)|[Archive]|[Tag](./tag.md)|[About]|
+
+<!-- content -->
 
 Nơi tôi viết và sưu tập các bài viết liên quan trong tâm chính là về lĩnh vực toán học và đôi khi là các bài viết về lĩnh vực vật lý hay, hấp dẫn mà tôi quan tâm.  
 

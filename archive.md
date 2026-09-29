@@ -1,12 +1,12 @@
 <!-- menu -->
 
-|[Trang chủ]|[Lưu trữ](./archive.md)|[Thẻ](./tag.md)|[Giới thiệu](./about.md)|
+|[Home](./README.md)|[Archive]|[Tag](./tag.md)|[About](./about.md)|
 
 # 2026
 
 + [ On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](./post/proof-progress-mathematics.md)
 
-+ [While Working on my Notes](./post/Kodaira-notes.md)
++ [While Working on my Notes](./post/kodaira-notes.md)
 
 # 2025
 
