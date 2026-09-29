@@ -17,8 +17,8 @@
 
 <div align="center" style="margin-bottom: 20px;">
     <span style="padding-right: 5px; color:grey;">2024-09-08</span>
-    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/mathematics.html" style="padding-right: 5px;">Toán học</a></span>
-    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/writing.html" style="padding-right: 5px;">Viết</a></span>
+    <span><a href="https://namlete102.github.io/write-collection-mathematics/tag/mathematics.html" style="padding-right: 5px;">Toán học</a></span>
+    <span><a href="https://namlete102.github.io/write-collection-mathematics/tag/writing.html" style="padding-right: 5px;">Viết</a></span>
 </div>
 
 ---

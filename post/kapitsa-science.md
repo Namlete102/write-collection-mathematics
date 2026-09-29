@@ -16,9 +16,9 @@
 
 <div align="center" style="margin-bottom: 20px;">
     <span style="padding-right: 5px; color:grey;">2024-12-31</span>
-    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/physics.html" style="padding-right: 5px;">Vật lý</a></span>
-    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/collection.html" style="padding-right: 5px;">Sưu tập</a></span>
-    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
+    <span><a href="https://namlete102.github.io/write-collection-mathematics/tag/physics.html" style="padding-right: 5px;">Vật lý</a></span>
+    <span><a href="https://namlete102.github.io/write-collection-mathematics/tag/collection.html" style="padding-right: 5px;">Sưu tập</a></span>
+    <span><a href="https://namlete102.github.io/write-collection-mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
 </div>
 
 <!-- contents -->

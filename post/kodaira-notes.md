@@ -7,7 +7,7 @@
 <div align="center">
     <span>
         <h2>
-            <b>While Working on my Notes</b> 
+            <b>While working on my Notes</b> 
             <a href="./pdf/Dịch While Working on my Notes.pdf" target="_blank">(pdf)</a>
         </h2>
     </span>
@@ -17,9 +17,9 @@
 
 <div align="center" style="margin-bottom: 20px;">
     <span style="padding-right: 5px; color:grey;">2026-03-30</span>
-    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/mathematics.html" style="padding-right: 5px;">Toán</a></span>
-    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/collection.html" style="padding-right: 5px;">Sưu tập</a></span>
-    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
+    <span><a href="https://namlete102.github.io/write-collection-mathematics/tag/mathematics.html" style="padding-right: 5px;">Toán</a></span>
+    <span><a href="https://namlete102.github.io/write-collection-mathematics/tag/collection.html" style="padding-right: 5px;">Sưu tập</a></span>
+    <span><a href="https://namlete102.github.io/write-collection-mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
 </div>
 
 <!-- contents -->

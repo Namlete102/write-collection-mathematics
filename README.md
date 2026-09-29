@@ -1,8 +1,8 @@
-Nơi tôi viết, và sưu tập về những bài viết về toán học và vật lý thú vị, hấp dẫn và cảm hứng. 
+Đúng như tên tiêu đề, đây là nơi tôi viết, sưu tập về những bài viết về toán học và vật lý thú vị, hấp dẫn và cảm hứng. 
 
 <!-- menu -->
 
-|[Home]|[Archive](./archive.md)|[Tag](./tag.md)|[About](./about.md)|
+|Home|[Archive](./archive.md)|[Tag](./tag.md)|
 
 <!-- content -->
 
@@ -13,7 +13,7 @@ Nơi tôi viết, và sưu tập về những bài viết về toán học và v
 
 <p style="margin-left: 30px;">Bài viết này trình bày về bản chất của phép chứng minh và tiến bộ trong toán học, được khuyến khích bởi bài báo của Jaffe và Quinn, <i>“Theoretical Mathematics: Toward a cultural synthesis of mathematics and theoretical physics”</i> (Toán học lý thuyết: Hướng tới sự tổng hợp mang tính văn hóa của toán học và vật lý lý thuyết). Bài báo của họ nêu lên nhiều vấn đề thú vị mà các nhà toán học cần quan tâm tới nhiều hơn, nhưng nó cũng duy trì một số niềm tin và thái độ cần bị nghi ngờ và cần được kiểm chứng.</p>
 
-[While Working on my Notes](./post/kodaira-notes.md) <span style="color:grey;">(2026-03-30)</span> 
+[While working on my Notes](./post/kodaira-notes.md) <span style="color:grey;">(2026-03-30)</span> 
 
 <p style="margin-left: 30px;">Không có gì khó đọc hơn với tôi là các cuốn sách (và bài báo) về toán học. Đọc một quyển sách toán với hàng trăm trang từ đầu đến cuối là một nhiệm vụ gian truân. Khi bạn mở một quyển sách, bạn thường bắt gặp một vài định nghĩa và tiên đề, tiếp theo là định lý và chứng minh. Bởi vì toán học trở nên đơn giản và dễ dàng khi bạn có được trực giác, bạn cố gắng để đạt được bằng cách đọc các định lý và thử chứng minh chúng . . .</p>
 
@@ -58,5 +58,9 @@ Nơi tôi viết, và sưu tập về những bài viết về toán học và v
 <center>
     <a href="https://github.com/Namlete102/Write-Collection-Mathematics" target="_blank" style="padding-right: 2px;">Github</a>
     .
-    <a href="https://namlete102.github.io/Namleteblog.github.io/aboutme.html" target="_blank" style="padding-left: 2px;">Liên hệ</a>
+    <a href="https://namlete102.github.io/Namleteblog.github.io/aboutme.html" target="_blank" style="padding-left: 2px;">Contact</a>
 <center>
+
+<center>
+© 2026 Namlete
+</center>
