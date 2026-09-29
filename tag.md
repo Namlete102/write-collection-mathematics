@@ -1,6 +1,6 @@
 <!-- menu -->
 
-|[Trang chủ](./README.md)|[Lưu trữ](./archive.md)|[Thẻ]|[Nháp](./draft.md)|[Giới thiệu](./about.md)|
+|[Trang chủ]|[Lưu trữ](./archive.md)|[Thẻ](./tag.md)|[Giới thiệu](./about.md)|
 
 <!-- contents -->
 
