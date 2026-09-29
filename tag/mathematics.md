@@ -19,7 +19,7 @@
 
 <p style="margin-left: 30px;">Bài viết này trình bày về bản chất của phép chứng minh và tiến bộ trong toán học, được khuyến khích bởi bài báo của Jaffe và Quinn, <i>“Theoretical Mathematics: Toward a cultural synthesis of mathematics and theoretical physics”</i> (Toán học lý thuyết: Hướng tới sự tổng hợp mang tính văn hóa của toán học và vật lý lý thuyết). Bài báo của họ nêu lên nhiều vấn đề thú vị mà các nhà toán học cần quan tâm tới nhiều hơn, nhưng nó cũng duy trì một số niềm tin và thái độ cần bị nghi ngờ và cần được kiểm chứng.</p>
 
-+ 2026-03-30: [While working on my Notes](https://namlete102.github.io/write-collection-mathematics/post/kodaira-notes.html)
++ 2026-03-30: [While working on my notes](https://namlete102.github.io/write-collection-mathematics/post/kodaira-notes.html)
 
 <p style="margin-left: 30px;">Không có gì khó đọc hơn với tôi là các cuốn sách (và bài báo) về toán học. Đọc một quyển sách toán với hàng trăm trang từ đầu đến cuối là một nhiệm vụ gian truân. Khi bạn mở một quyển sách, bạn thường bắt gặp một vài định nghĩa và tiên đề, tiếp theo là định lý và chứng minh. Bởi vì toán học trở nên đơn giản và dễ dàng khi bạn có được trực giác, bạn cố gắng để đạt được bằng cách đọc các định lý và thử chứng minh chúng . . . </p>
 

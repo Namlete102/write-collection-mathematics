@@ -7,7 +7,7 @@
 <div align="center">
     <span>
         <h2>
-            <b>While working on my Notes</b> 
+            <b>While working on my notes</b> 
             <a href="./pdf/Dịch While Working on my Notes.pdf" target="_blank">(pdf)</a>
         </h2>
     </span>
