@@ -4,7 +4,9 @@
 
 # 2026
 
-+ [ On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](./post/proof-progress-mathematics.md)
++ [Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](./post/binet-proof-matrix.md)
+
++ [On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](./post/proof-progress-mathematics.md)
 
 + [While working on my Notes](./post/kodaira-notes.md)
 

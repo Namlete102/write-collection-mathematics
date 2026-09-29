@@ -8,6 +8,14 @@
 
 <!-- content -->
 
+<!-- 2026 -->
+
++ 2026-??-??: [Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](/post/binet-proof-matrix.md)
+
+<p style="margin-left: 30px;">Ý tưởng chứng minh bài toán được lấy cảm hứng từ bài viết về dãy Fibonacci trên trang Wikipedia, chứng minh tổng quát dãy số Fibonacci bằng lý thuyết ma trận</p>
+
+<!-- 2024 -->
+
 + 2024-07-29: [Nicolas Bourbaki - Nhà toán học của thế kỉ 20](https://namlete102.github.io/Write-Collection-Mathematics/post/bourbaki-mathematics.html) 
 
 <p style="margin-left: 30px;">Đầu những năm 1930, trong làng Toán xuất hiện cái tên Nikolas Bourbaki, khiến cả làng Toán ngỡ ngàng. Một cái tên viết lại hầu hết lý thuyết Toán học đương đại, và vào các kí hiệu tập rỗng Ø, ký hiệu =>, các khái niệm song ánh, toàn ánh, đơn ánh ...</p>

@@ -10,6 +10,10 @@
 
 <!-- 2026 -->
 
++ 2026-??-??: [Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](/post/binet-proof-matrix.md)
+
+<p style="margin-left: 30px;">Ý tưởng chứng minh bài toán được lấy cảm hứng từ bài viết về dãy Fibonacci trên trang Wikipedia, chứng minh tổng quát dãy số Fibonacci bằng lý thuyết ma trận</p>
+
 + 2026-09-01: [On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](https://namlete102.github.io/write-collection-mathematics/post/proof-progress-mathematics.html)
 
 <p style="margin-left: 30px;">Bài viết này trình bày về bản chất của phép chứng minh và tiến bộ trong toán học, được khuyến khích bởi bài báo của Jaffe và Quinn, <i>“Theoretical Mathematics: Toward a cultural synthesis of mathematics and theoretical physics”</i> (Toán học lý thuyết: Hướng tới sự tổng hợp mang tính văn hóa của toán học và vật lý lý thuyết). Bài báo của họ nêu lên nhiều vấn đề thú vị mà các nhà toán học cần quan tâm tới nhiều hơn, nhưng nó cũng duy trì một số niềm tin và thái độ cần bị nghi ngờ và cần được kiểm chứng.</p>
