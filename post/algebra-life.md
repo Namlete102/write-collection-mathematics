@@ -34,3 +34,7 @@ Bài viết gốc được viết bởi The Merc, đăng trên Spiderum.
     .
     <a href="https://namlete102.github.io/Namleteblog.github.io/aboutme.html" target="_blank" style="padding-left: 2px;">Liên hệ</a>
 <center>
+
+<center>
+© 2026 Namlete
+</center>

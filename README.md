@@ -1,4 +1,5 @@
-Đúng như tên tiêu đề, đây là nơi tôi viết, sưu tập về những bài viết về toán học và vật lý thú vị, hấp dẫn và cảm hứng. 
+Đúng như tên tiêu đề, đây là nơi tôi viết, sưu tập về những bài viết về lĩnh vực chuyên mà tôi yêu thích là toán học và đôi khi sẽ có cả vật lý, vì chúng thật sự mang lại cảm giác thú vị, hấp dẫn và cảm hứng trong tôi.
+
 
 <!-- menu -->
 
@@ -62,6 +63,7 @@
     <a href="https://github.com/Namlete102/Write-Collection-Mathematics" target="_blank" style="padding-right: 2px;">Github</a>
     .
     <a href="https://namlete102.github.io/Namleteblog.github.io/aboutme.html" target="_blank" style="padding-left: 2px;">Contact</a>
+    <p>© 2026 Namlete</p>
 <center>
 
 <center>
