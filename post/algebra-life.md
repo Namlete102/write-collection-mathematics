@@ -96,7 +96,7 @@ Tạm dịch: "Toán học là bà chúa của khoa học, và số học là b�
 Và một trong những cuốn sách khiến tôi đam mê với toán học, cũng có tên "Số học - Bà chúa của toán học" của tác giả Hoàng Chúng
 
 <div align="center">
-    <img src="./images/Quyển số học.jpg" alt="Quyển số học">
+    <img src="./images/Quyển số học.jpg" alt="Quyển số học" height="60%">
 </div>
 
 
