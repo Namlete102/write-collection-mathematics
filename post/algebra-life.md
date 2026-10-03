@@ -38,3 +38,28 @@ Bài viết gốc được viết bởi The Merc, đăng trên Spiderum.
 <center>
 © 2026 Namlete
 </center>
+
+<!-- Mathjax -->
+
+<script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      }
+    };
+
+    MathJax = {
+      tex: {
+        tags: 'ams'  // or 'all'
+      }
+    };
+    
+    function zoomOut() {
+      let img = document.getElementById("myImage");
+        img.style.width = (img.clientWidth - 50) + "px"; // Reduces width by 50px
+      }
+</script>
