@@ -24,7 +24,7 @@
 
 <!-- cotents -->
 
-Bài viết gốc được viết bởi The Merc, đăng trên Spiderum. 
+Bài viết gốc được viết bởi tác giả The Merc, đăng trên Spiderum. 
 
 <center>
     <b>
@@ -40,8 +40,10 @@ Nào, số 8 với số 9 không có gì đặc biệt, chỉ là hai số liề
 
 \\(2^3\\) và \\(3^2\\) đúng không. nào:
 
-\\(3^2 - 2^3 = 1\\)
- 
+$$
+3^2 - 2^3 = 1
+$$
+
 Ồ, vậy nếu như chúng ta tổng quát hóa lên thì sao? Liệu chúng ta có những lũy thừa nguyên liên tiếp hay không?
 
 Một trong những nhà toán học đại tài của nhân loại, Euler (1707-1783), đã nghĩ đến việc này, ông chứng minh được (8,9) là nghiệm duy nhất của phương trình Diophante (hay còn gọi là phương trình nghiệm nguyên):
@@ -84,14 +86,19 @@ D. 400
    </blockquote>
 </div>
 
-<div align="center">
-    Carl Friedrich Gauss 
+<div align="right">
+    <b>
+        Carl Friedrich Gauss 
+    </b>
 </div>
 
 Tạm dịch: "Toán học là bà chúa của khoa học, và số học là bà chúa của toán học."
 Và một trong những cuốn sách khiến tôi đam mê với toán học, cũng có tên "Số học - Bà chúa của toán học" của tác giả Hoàng Chúng
 
-(? . . . ảnh)
+<div align="center">
+    <img src="./images/Quyển số học.jpg" alt="Quyển số học">
+</div>
+
 
 Tất nhiên, lúc ngấu nghiến quyển sách này trong ba tháng hè hồi phổ thông, thì tôi không nghĩ được là vì sao lại có câu nói đấy. Bởi vì thực ra mà nói, số học là môn học có ít "trọng lượng" nhất trong số các nhánh toán sơ cấp cũng như toán cao cấp. Tôi không quá rõ về toán cao cấp vì tôi chỉ học một ít trong đại học và không học lên nữa, nhưng đối với toán sơ cấp dạy trong phổ thông thì rất rõ ràng.
 
@@ -99,7 +106,7 @@ Mặc dù chương trình phổ thông lúc đó dạy số học đến lớp 9
 
 Tôi biết được câu trả lời khi tôi bỏ không theo toán được gần chục năm. Đôi khi nghĩ lại thì đó là một tình huống tréo ngoe đi kèm với nực cười.
 
-Bây giờ hãy nghĩ thử nhé. Chúng ta đi học lớp 1 được dạy 1+1 = 2, một hai năm sau thì biết 2x2=4, một vài năm nữa thì biết 4^4=256, thêm một vài năm nữa thì số 256 này biến đi đâu mất để chỉ còn toàn x với y, đôi khi là zigma và pi rồi hàng loạt những ký hiệu cổ quái. Rất nhiều người trong số chúng ta sẽ cảm thấy chán nản với zigma và pi, cảm thấy tại sao trước kia 1+1 = 2 vui thế mà giờ chứng minh mấy cái bất đẳng thức chẳng có số má gì chán bỏ mẹ (xin lỗi nói bậy), rồi ngáp ngắn ngáp dài trên đống ký hiệu với câu hỏi hiện sinh: Mình học những thứ này để làm gì cho cuộc đời?
+Bây giờ hãy nghĩ thử nhé. Chúng ta đi học lớp 1 được dạy 1+1 = 2, một hai năm sau thì biết \\(2 \times 2 = 4\\), một vài năm nữa thì biết \\(4^4 = 256\\) , thêm một vài năm nữa thì số 256 này biến đi đâu mất để chỉ còn toàn x với y, đôi khi là sigma và pi rồi hàng loạt những ký hiệu cổ quái. Rất nhiều người trong số chúng ta sẽ cảm thấy chán nản với zigma và pi, cảm thấy tại sao trước kia 1+1 = 2 vui thế mà giờ chứng minh mấy cái bất đẳng thức chẳng có số má gì chán bỏ mẹ (xin lỗi nói bậy), rồi ngáp ngắn ngáp dài trên đống ký hiệu với câu hỏi hiện sinh: Mình học những thứ này để làm gì cho cuộc đời ?
 
 Cho đến một ngày tôi nhận ra là tất cả những thứ quan niệm đấy đều sai lầm, bởi tư duy toán học, tư duy số học là thứ trân quý nhất mà cuộc đời này có thể dạy cho tôi.
 
