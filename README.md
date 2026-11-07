@@ -1,23 +1,12 @@
-<!-- css -->
-
-<style>
-h1 {
-    font-size: 1.3 rem!important;
-}
-</style>
-
 <!-- introduction -->
 
 Đúng như tên tiêu đề, đây là nơi tôi viết, sưu tập về những bài viết về lĩnh vực chuyên mà tôi yêu thích là toán học và đôi khi sẽ có cả vật lý, vì chúng thật sự mang lại cảm giác thú vị, hấp dẫn và cảm hứng trong tôi.
 
-
 <!-- menu -->
 
-<div align="center">
-    <span>Home</span>
-    <span><a href="https://namlete102.github.io/write-collection-mathematics/archive.md">Archive</a></span>
-    <span><a href="https://namlete102.github.io/write-collection-mathematics/tag.md">Tag</a></span>
-</div>
+## Home|[Archive](./archive.md)|[Tag](./tag.md)|[Draft]() 
+
+---
 
 <!-- content -->
 

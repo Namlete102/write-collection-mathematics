@@ -1,18 +1,6 @@
-<!-- css -->
-
-<style>
-h1 {
-    font-size: 1.3 rem!important;
-}
-</style>
-
 <!-- menu -->
 
-<div align="center">
-    <span><a href="./README.md">Home</a></span>
-    <span>Archive<span>
-    <span><a href="./tag.md">Archive</a></span>
-</div>
+## [Home](./README.md)|Archive|[Tag](./tag.md)|[Draft]() 
 
 <!-- contents -->
 
