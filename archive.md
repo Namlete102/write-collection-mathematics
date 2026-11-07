@@ -1,6 +1,6 @@
 <!-- menu -->
 
-## [Home](./README.md)|Archive|[Tag](./tag.md)|[Draft]() 
+### [Home](./README.md) Archive [Tag](./tag.md) [Draft]() 
 
 <!-- contents -->
 

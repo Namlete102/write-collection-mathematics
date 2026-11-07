@@ -4,7 +4,7 @@
 
 <!-- menu -->
 
-## Home [Archive](./archive.md) [Tag](./tag.md) [Draft]() 
+### home [archive](./archive.md) [tag](./tag.md) [draft]() 
 
 <!-- content -->
 
