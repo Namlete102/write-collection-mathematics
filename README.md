@@ -2,7 +2,7 @@
 
 <style>
 h1 {
-    font-size: 1.5 rem!important;
+    font-size: 1.3 rem!important;
 }
 </style>
 
@@ -15,8 +15,8 @@ h1 {
 
 <div align="center">
     <span>Home</span>
-    <span><a href="./archive.md">Archive</a></span>
-    <span><a href="./tag.md">Tag</a></span>
+    <span><a href="https://namlete102.github.io/write-collection-mathematics/archive.md">Archive</a></span>
+    <span><a href="https://namlete102.github.io/write-collection-mathematics/tag.md">Tag</a></span>
 </div>
 
 <!-- content -->

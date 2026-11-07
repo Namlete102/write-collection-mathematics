@@ -2,7 +2,7 @@
 
 <style>
 h1 {
-    font-size: 0.5 rem!important;
+    font-size: 1.3 rem!important;
 }
 </style>
 
