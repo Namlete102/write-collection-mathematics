@@ -1,9 +1,23 @@
+<!-- css -->
+
+<style>
+h1 {
+    font-size: 1.5 rem!important;
+}
+</style>
+
+<!-- introduction -->
+
 Đúng như tên tiêu đề, đây là nơi tôi viết, sưu tập về những bài viết về lĩnh vực chuyên mà tôi yêu thích là toán học và đôi khi sẽ có cả vật lý, vì chúng thật sự mang lại cảm giác thú vị, hấp dẫn và cảm hứng trong tôi.
 
 
 <!-- menu -->
 
-|Home|[Archive](./archive.md)|[Tag](./tag.md)|
+<div align="center">
+    <span>Home<span>
+    <span><a href="./archive.md">Archive</a><span>
+    <span><a href="./tag.md">Archive</a><span>
+</div>
 
 <!-- content -->
 
@@ -65,4 +79,4 @@
     <a href="https://namlete102.github.io/Namleteblog.github.io/aboutme.html" target="_blank" style="padding-left: 2px;">Contact</a>
 <center>
 
-<center>© 2026 Namlete</center>
+<center>©2026 Namlete</center>
