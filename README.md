@@ -14,9 +14,9 @@ h1 {
 <!-- menu -->
 
 <div align="center">
-    <span>Home<span>
-    <span><a href="./archive.md">Archive</a><span>
-    <span><a href="./tag.md">Archive</a><span>
+    <span>Home</span>
+    <span><a href="./archive.md">Archive</a></span>
+    <span><a href="./tag.md">Tag</a></span>
 </div>
 
 <!-- content -->
