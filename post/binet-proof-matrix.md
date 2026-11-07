@@ -6,11 +6,10 @@
 
 <div align="center">
     <span>
-        <h2>
-            <b>Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận</b> 
-            <a href="#">pdf</a>,
-            <a href="#">html</a>
-        </h2>
+        <h3>
+            <b>Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận (bản nháp)</b> 
+            <a href="#">pdf</a>
+        </h3>
     </span>
 </div>
 

@@ -4,15 +4,11 @@
 
 <!-- menu -->
 
-### home [archive](./archive.md) [tag](./tag.md) [draft]() 
+### home [archive](./archive.md) [tag](./tag.md) [draft](./draft.md) 
 
 <!-- content -->
 
 <!-- 2026 -->
-
-[Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](./post/binet-proof-matrix.md) <span style="color:grey;">(2026-??-??)</span> 
-
-<p style="margin-left: 30px;">Ý tưởng chứng minh bài toán được lấy cảm hứng từ bài viết về dãy Fibonacci trên trang Wikipedia, chứng minh tổng quát dãy số Fibonacci bằng lý thuyết ma trận</p>
 
 [On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](./post/proof-progress-mathematics.md) <span style="color:grey;">(2026-09-01)</span> 
 
