@@ -4,9 +4,7 @@
 
 <!-- menu -->
 
-## Home|[Archive](./archive.md)|[Tag](./tag.md)|[Draft]() 
-
----
+## Home [Archive](./archive.md) [Tag](./tag.md) [Draft]() 
 
 <!-- content -->
 
