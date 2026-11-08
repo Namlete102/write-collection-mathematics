@@ -1,16 +1,18 @@
 <!-- menu -->
 
-|[Home](https://namlete102.github.io/write-collection-mathematics/)|[Archive](https://namlete102.github.io/write-collection-mathematics/archive.html)|[Tag](https://namlete102.github.io/write-collection-mathematics/tag.html)|
+### [home](https://namlete102.github.io/write-collection-mathematics/) [archive](https://namlete102.github.io/write-collection-mathematics/archive.html) [tag](https://namlete102.github.io/write-collection-mathematics/tag.html) [draft](https://namlete102.github.io/write-collection-mathematics/draft.html) 
+
+---
 
 <!-- title -->
 
 <div align="center">
     <span>
-        <h2>
+        <h3>
             <b>On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học</b> 
             <a href="./pdf/Về_chứng_minh_và_sự_tiến_bộ_trong_toán_học.pdf" target="_blank">(pdf)</a>,
             <a href="https://namlete102.github.io/On-proof-and-progress-in-mathematics-arxiv-asciidoc-demo/">html</a>
-        </h2>
+        </h3>
     </span>
 </div>
 

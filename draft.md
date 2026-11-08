@@ -2,11 +2,11 @@
 
 Những bài viết nháp toán học của tôi. 
 
----
-
 <!-- menu -->
 
 ### [home](./README.md) [archive](./archive.md) [tag](./tag.md) draft 
+
+---
 
 <!-- 2026 -->
 

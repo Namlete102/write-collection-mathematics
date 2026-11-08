@@ -1,15 +1,17 @@
 <!-- menu -->
 
-|[Home](https://namlete102.github.io/write-collection-mathematics/)|[Archive](https://namlete102.github.io/write-collection-mathematics/archive.html)|[Tag](https://namlete102.github.io/write-collection-mathematics/tag.html)|
+### [home](https://namlete102.github.io/write-collection-mathematics/) [archive](https://namlete102.github.io/write-collection-mathematics/archive.html) [tag](https://namlete102.github.io/write-collection-mathematics/tag.html) [draft](https://namlete102.github.io/write-collection-mathematics/draft.html) 
+
+---
 
 <!-- title -->
 
 <div align="center">
     <span>
-        <h2>
+        <h3>
             <b>Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức</b> 
             <a href="">(pdf)</a>
-        </h2>
+        </h3>
     </span>
 </div>
 

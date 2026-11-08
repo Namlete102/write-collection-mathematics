@@ -2,14 +2,16 @@
 
 ### [home](https://namlete102.github.io/write-collection-mathematics/) [archive](https://namlete102.github.io/write-collection-mathematics/archive.html) [tag](https://namlete102.github.io/write-collection-mathematics/tag.html) [draft](https://namlete102.github.io/write-collection-mathematics/draft.html) 
 
+---
+
 <!-- title -->
 
 <div align="center">
     <span>
-        <h2>
+        <h3>
             <b>Số học và cuộc sống</b> 
             <a href="#">pdf</a>
-        </h2>
+        </h3>
     </span>
 </div>
 
