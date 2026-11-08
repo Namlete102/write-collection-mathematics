@@ -1,6 +1,6 @@
 <!-- menu -->
 
-|[Home](https://namlete102.github.io/write-collection-mathematics/)|[Archive](https://namlete102.github.io/write-collection-mathematics/archive.html)|[Tag](https://namlete102.github.io/write-collection-mathematics/tag.html)|
+### [home](https://namlete102.github.io/write-collection-mathematics/) [archive](https://namlete102.github.io/write-collection-mathematics/archive.html) [tag](https://namlete102.github.io/write-collection-mathematics/tag.html) [draft](https://namlete102.github.io/write-collection-mathematics/draft.html) 
 
 <!-- title -->
 
@@ -155,12 +155,10 @@ Lúc mới đi làm, khi nộp hồ sơ xin việc, rất nhiều người ngạ
 <center>
     <a href="https://github.com/Namlete102/Write-Collection-Mathematics" target="_blank" style="padding-right: 2px;">Github</a>
     .
-    <a href="https://namlete102.github.io/Namleteblog.github.io/aboutme.html" target="_blank" style="padding-left: 2px;">Liên hệ</a>
+    <a href="https://namlete102.github.io/Namleteblog.github.io/aboutme.html" target="_blank" style="padding-left: 2px;">Contact</a>
 <center>
 
-<center>
-© 2026 Namlete
-</center>
+<center>©2026 Namlete</center>
 
 <!-- Mathjax -->
 

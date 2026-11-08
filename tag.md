@@ -2,6 +2,8 @@
 
 ### [home](./README.md) [archive](./archive.md) tag [draft](./draft.md) 
 
+---
+
 <!-- contents -->
 
 + [Toán học](./tag/mathematics.md)
@@ -20,6 +22,4 @@
     <a href="https://namlete102.github.io/Namleteblog.github.io/aboutme.html" target="_blank" style="padding-left: 2px;">Contact</a>
 <center>
 
-<center>
-© 2026 Namlete
-</center>
+<center>©2026 Namlete</center>
