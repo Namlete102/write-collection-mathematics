@@ -36,5 +36,5 @@
     .
     <a href="https://namlete102.github.io/Namleteblog.github.io/aboutme.html" target="_blank" style="padding-left: 2px;">Contact</a>
     <br>
-    <b>©2026 Namlete</b>
+    <p>©2026 Namlete</p>
 </div>

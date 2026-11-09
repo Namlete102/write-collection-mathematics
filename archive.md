@@ -8,7 +8,9 @@
 
 # 2026
 
-+ [Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](./post/binet-proof-matrix.md)
++ [Chứng minh công thức lượng giác bằng công thức Euler cho số phức](./draft/trigonomy-euler-complex-number.md) 
+
++ [Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](./draft/binet-proof-matrix.md)
 
 + [On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](./post/proof-progress-mathematics.md)
 
@@ -37,10 +39,10 @@
 
 <!-- footer -->
 
-<center>
+<div align="center">
     <a href="https://github.com/Namlete102/Write-Collection-Mathematics" target="_blank" style="padding-right: 2px;">Github</a>
     .
     <a href="https://namlete102.github.io/Namleteblog.github.io/aboutme.html" target="_blank" style="padding-left: 2px;">Contact</a>
-<center>
-
-<center>©2026 Namlete</center>
+    <br>
+    <p>©2026 Namlete</p>
+</div>
