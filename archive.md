@@ -4,13 +4,13 @@
 
 <!-- menu -->
 
-### [home](./README.md) archive [tag](./tag.md) [draft]() 
+### [home](./README.md) archive [tag](./tag.md) [draft](./draft.md) 
 
 <hr>
 
 <!-- contents -->
 
-# 2026
+## 2026
 
 + [Chứng minh công thức lượng giác bằng công thức Euler cho số phức](./contents/draft/trigonomy-euler-complex-number.md) 
 
@@ -20,12 +20,12 @@
 
 + [While working on my Notes](./contents/post/kodaira-notes.md)
 
-# 2025
+## 2025
 
 + [Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức](./contents/post/mathematics-culture.md) 
 
 
-# 2024 
+## 2024 
 
 + [Thư của Kapitsa về khoa học](./contents/post/kapitsa-science.md)
 
