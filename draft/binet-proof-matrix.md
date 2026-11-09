@@ -10,15 +10,10 @@
     <h3>
         <b>Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận (bản nháp)</b> 
     </h3>
-</div>
-
-<div align="center">
-    <span>
-        <h4><a href="#">pdf</a></h4>
-    </span>
-    <span>
-        <h4><a href="#">TeX source</a></h4>
-    </span>
+    <h4>
+        <a href="#">pdf</a>
+        <a href="#">TeX source</a>
+    </h4>
 </div>
 
 <!-- tag -->
