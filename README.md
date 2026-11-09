@@ -65,3 +65,22 @@
     <br>
     <p>©2026 Namlete</p>
 </div>
+
+--- 
+
+<style>
+/* Đổi tên tiêu đề mặc định của github tham khảo Source - https://stackoverflow.com/a/26889106
+Posted by G-Cyrillus
+Retrieved 2026-09-17, License - CC BY-SA 3.0 */
+
+h1 {
+  text-indent:-9999px;
+  font-size: 1rem;
+}
+
+h1:before {
+  text-indent:0;
+  content:'write-note-collection-mathmatics';
+  float:left;
+} 
+</style>
