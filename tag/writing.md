@@ -4,7 +4,6 @@
 
 ---
 
-
 <!-- title -->
 
 ## Viết
@@ -12,6 +11,10 @@
 <!-- content -->
 
 <!-- 2026 -->
+
++ 2026-??-??: [Chứng minh công thức lượng giác bằng công thức Euler cho số phức](https://namlete102.github.io/write-collection-mathematics/draft/trigonomy-euler-complex-number.html)
+
+<p style="margin-left: 30px;">Chứng minh một số công thức lượng giác quen thuộc ở cấp 3 bằng công thức Euler cho số phức.</p>
 
 + 2026-??-??: [Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](https://namlete102.github.io/write-collection-mathematics/post/binet-proof-matrix.html)
 
@@ -26,7 +29,6 @@
 + 2024-08-09: [Lev Tolstoy và toán học](https://namlete102.github.io/Write-Collection-Mathematics/post/levtolstoy-mathematics.html)
 
 <p style="margin-left: 30px;">Ai cũng biết Lev Tolstoy là nhà văn lớn của nước Nga (1828 – 1910). Nhưng ít người biết rằng ông đồng thời cũng là tác giả của nhiều bài toán hay. Tư duy văn học hình tượng và tư duy toán học chính xác cùng hòa chung trong bộ óc của ông.</p>
-
 
 ---
 

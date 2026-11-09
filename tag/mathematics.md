@@ -4,7 +4,6 @@
 
 ---
 
-
 <!-- title -->
 
 ## Toán học
@@ -12,6 +11,10 @@
 <!-- content -->
 
 <!-- 2026 -->
+
++ 2026-??-??: [Chứng minh công thức lượng giác bằng công thức Euler cho số phức](https://namlete102.github.io/write-collection-mathematics/draft/trigonomy-euler-complex-number.html)
+
+<p style="margin-left: 30px;">Chứng minh một số công thức lượng giác quen thuộc ở cấp 3 bằng công thức Euler cho số phức.</p>
 
 + 2026-??-??: [Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](https://namlete102.github.io/write-collection-mathematics/post/binet-proof-matrix.html)
 
