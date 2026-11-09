@@ -7,11 +7,14 @@
 <!-- title -->
 
 <div align="center">
+    <h3>
+        <b>Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận (bản nháp)</b> 
+    </h3>
     <span>
-        <h3>
-            <b>Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận (bản nháp)</b> 
+        <h4>
             <a href="#">pdf</a>
-        </h3>
+            <a href="#">TeX source</a>
+        </h4>
     </span>
 </div>
 
