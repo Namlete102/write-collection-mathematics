@@ -1,6 +1,6 @@
 <!-- introduction -->
 
-Đúng như tên tiêu đề, đây là nơi tôi viết, sưu tập về những bài viết về lĩnh vực chuyên mà tôi yêu thích là toán học và đôi khi sẽ có cả vật lý, vì chúng thật sự mang lại cảm giác thú vị, hấp dẫn và cảm hứng trong tôi.
+Đây là nơi lưu trữ những bài viết, ghi chú của tôi, cũng như sưu tập về những bài viết được trình bày bởi các tác giả khác về lĩnh vực chuyên mà tôi yêu thích là toán học và đôi khi sẽ có cả vật lý, vì chúng cũng thật sự  mang lại cảm giác thú vị, hấp dẫn và cảm hứng trong tôi.
 
 <!-- menu -->
 
@@ -80,7 +80,7 @@ h1 {
 
 h1:before {
   text-indent:0;
-  content:'write-note-collection-mathmatics';
+  content:'Untitled';
   float:left;
 } 
 </style>
