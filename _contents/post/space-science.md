@@ -1,3 +1,22 @@
+<!-- css -->
+
+<style>
+/* Đổi tên tiêu đề mặc định của github tham khảo Source - https://stackoverflow.com/a/26889106
+Posted by G-Cyrillus
+Retrieved 2026-09-17, License - CC BY-SA 3.0 */
+
+h1 {
+  text-indent:-9999px;
+  font-size: 1rem;
+}
+
+h1:before {
+  text-indent:0;
+  content:'Untitled';
+  float:left;
+} 
+</style>
+
 <!-- menu -->
 
 ### [home](https://namlete102.github.io/write-collection-mathematics/) [archive](https://namlete102.github.io/write-collection-mathematics/archive.html) [tag](https://namlete102.github.io/write-collection-mathematics/tag.html) [draft](https://namlete102.github.io/write-collection-mathematics/draft.html) 

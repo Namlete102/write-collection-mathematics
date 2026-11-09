@@ -1,3 +1,7 @@
+<!-- css -->
+
+<link rel="stylesheet" href="./_assets/style.css">
+
 <!-- menu -->
 
 ### [home](./README.md) [archive](./archive.md) tag [draft](./draft.md) 
@@ -6,11 +10,11 @@
 
 <!-- contents -->
 
-+ [Toán học](./tag/mathematics.md)
-+ [Vật lý](./tag/physics.md)
-+ [Viết](./tag/writing.md)
-+ [Sưu tập](./tag/collection.md)
-+ [Lịch sử và góc nhìn](./tag/history.md) 
++ [Toán học](./_contents/tag/mathematics.md)
++ [Vật lý](./_contents/tag/physics.md)
++ [Viết](./_contents/tag/writing.md)
++ [Sưu tập](./_contents/tag/collection.md)
++ [Lịch sử và góc nhìn](./_contents/tag/history.md) 
 
 ---
 

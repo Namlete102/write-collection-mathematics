@@ -1,3 +1,7 @@
+<!-- css -->
+
+<link rel="stylesheet" href="./_assets/style.css">
+
 <!-- menu -->
 
 ### [home](./README.md) archive [tag](./tag.md) [draft]() 

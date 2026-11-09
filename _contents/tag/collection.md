@@ -1,3 +1,22 @@
+<!-- css -->
+
+<style>
+/* Đổi tên tiêu đề mặc định của github tham khảo Source - https://stackoverflow.com/a/26889106
+Posted by G-Cyrillus
+Retrieved 2026-09-17, License - CC BY-SA 3.0 */
+
+h1 {
+  text-indent:-9999px;
+  font-size: 1rem;
+}
+
+h1:before {
+  text-indent:0;
+  content:'Untitled';
+  float:left;
+} 
+</style>
+
 <!-- menu -->
 
 ### [home](https://namlete102.github.io/write-collection-mathematics/) [archive](https://namlete102.github.io/write-collection-mathematics/archive.html) [tag](https://namlete102.github.io/write-collection-mathematics/tag.html) [draft](https://namlete102.github.io/write-collection-mathematics/draft.html) 
@@ -6,24 +25,22 @@
 
 <!-- title -->
 
-## Lịch sử và góc nhìn
+## Sưu tập
 
 <!-- content -->
 
 <!-- 2026 -->
 
-+ 2026-09-01: [On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](https://namlete102.github.io/Write-Collection-Mathematics/post/proof-progress-mathematics.html)
++ 2026-09-01: [On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](https://namlete102.github.io/write-collection-mathematics/post/proof-progress-mathematics.html)
 
 <p style="margin-left: 30px;">Bài viết này trình bày về bản chất của phép chứng minh và tiến bộ trong toán học, được khuyến khích bởi bài báo của Jaffe và Quinn, <i>“Theoretical Mathematics: Toward a cultural synthesis of mathematics and theoretical physics”</i> (Toán học lý thuyết: Hướng tới sự tổng hợp mang tính văn hóa của toán học và vật lý lý thuyết). Bài báo của họ nêu lên nhiều vấn đề thú vị mà các nhà toán học cần quan tâm tới nhiều hơn, nhưng nó cũng duy trì một số niềm tin và thái độ cần bị nghi ngờ và cần được kiểm chứng.</p>
 
 + 2026-03-30: [While working on my notes](https://namlete102.github.io/write-collection-mathematics/post/kodaira-notes.html)
-
 <p style="margin-left: 30px;">Không có gì khó đọc hơn với tôi là các cuốn sách (và bài báo) về toán học. Đọc một quyển sách toán với hàng trăm trang từ đầu đến cuối là một nhiệm vụ gian truân. Khi bạn mở một quyển sách, bạn thường bắt gặp một vài định nghĩa và tiên đề, tiếp theo là định lý và chứng minh. Bởi vì toán học trở nên đơn giản và dễ dàng khi bạn có được trực giác, bạn cố gắng để đạt được bằng cách đọc các định lý và thử chứng minh chúng . . . </p>
-
 
 <!-- 2025 -->
 
-+ 2025-08-04: [Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức](https://namlete102.github.io/write-collection-mathematics/post/proof-progress-mathematics.html) 
++ 2025-08-04: [Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức](https://namlete102.github.io/write-collection-mathematics/post/mathematics-culture.html) 
 
 <p style="margin-left: 30px;">Toán học là một hoạt động tri thức, được cho là một trong những hoạt động tinh tế nhất từng được tạo ra bởi văn minh nhân loại . . .</p>
 
@@ -41,10 +58,6 @@
 + 2024-11-14: ["Nhà bác học", thiên tài và trí tưởng tượng](https://namlete102.github.io/write-collection-mathematics/post/polymath-genius-imagination.html) 
 
 <p style="margin-left: 30px;">Vật lý? Với ai đó, chỉ cần sở hữu một trong các chức danh, phần thưởng kể trên cũng thừa đủ để nhấm nháp vinh quang suốt cả đời. Nhưng, với Feynman thì tất cả tước hiệu, phẩm bậc, phần thưởng chưa bao giờ là mục đích của đời ông. Feynman như một lãng tử suốt đời chìm trong đam mê: mê chơi trống, mê vẽ tranh, mê bẻ mã khoá, mê lý giải các ký tự của người Maya, mê ngồi ở các quán bar, mê kỹ thuật, mê giảng dạy, và đặc biệt là mê “chơi” vật lý. Ông gọi “nghiên cứu” là “chơi” – mà đã chơi thì phải hết mình. Richard Feynman là một thiên tài vật lý, là một anh hề, hay cả hai – như Freeman Dyson đã viết trong lời tựa cuốn bán tự truyện của Feynman – The pleasure of finding things out (bản tiếng Việt: Niềm vui khám phá, NXB Trẻ 2009). Đam mê, hài hước, hết mình và trung thực tuyệt đối, đó là những gì làm nên nhân cách Feynman.</p>
-
-+ 2024-07-29: [Nicolas Bourbaki - Nhà toán học của thế kỉ 20](https://namlete102.github.io/write-collection-mathematics/post/bourbaki-mathematics.html) 
-
-<p style="margin-left: 30px;">Đầu những năm 1930, trong làng Toán xuất hiện cái tên Nikolas Bourbaki, khiến cả làng Toán ngỡ ngàng. Một cái tên viết lại hầu hết lý thuyết Toán học đương đại, và vào các kí hiệu tập rỗng Ø, ký hiệu =>, các khái niệm song ánh, toàn ánh, đơn ánh ...</p>
 
 + 2024-06-08: [Số học và cuộc sống](https://namlete102.github.io/write-collection-mathematics/post/algebra-life.html)
 
