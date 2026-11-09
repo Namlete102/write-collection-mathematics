@@ -9,7 +9,7 @@
 <div align="center">
     <span>
         <h3>
-            <b>Chứng minh một số công thức lượng giác quen thuộc ở cấp 3 bằng công thức Euler cho số phức.g</b> 
+            <b>Chứng minh công thức lượng giác bằng công thức Euler cho số phức</b> 
             <a href="#">pdf</a>
         </h3>
     </span>
