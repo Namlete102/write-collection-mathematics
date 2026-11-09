@@ -1,6 +1,6 @@
 <!-- css -->
 
-<link rel="stylesheet" href="./_assets/style.css">
+<link rel="stylesheet" href="style.css">
 
 <!-- menu -->
 
@@ -12,32 +12,32 @@
 
 # 2026
 
-+ [Chứng minh công thức lượng giác bằng công thức Euler cho số phức](./draft/trigonomy-euler-complex-number.md) 
++ [Chứng minh công thức lượng giác bằng công thức Euler cho số phức](./contents/draft/trigonomy-euler-complex-number.md) 
 
-+ [Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](./draft/binet-proof-matrix.md)
++ [Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](./contents/draft/binet-proof-matrix.md)
 
-+ [On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](./post/proof-progress-mathematics.md)
++ [On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](./contents/post/proof-progress-mathematics.md)
 
-+ [While working on my Notes](./post/kodaira-notes.md)
++ [While working on my Notes](./contents/post/kodaira-notes.md)
 
 # 2025
 
-+ [Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức](./post/mathematics-culture.md) 
++ [Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức](./contents/post/mathematics-culture.md) 
 
 
 # 2024 
 
-+ [Thư của Kapitsa về khoa học](./post/kapitsa-science.md)
++ [Thư của Kapitsa về khoa học](./contents/post/kapitsa-science.md)
 
-+ [Why explore space - Tại sao chúng ta lại khám phá không gian](./post/space-science.md)
++ [Why explore space - Tại sao chúng ta lại khám phá không gian](./contents/post/space-science.md)
 
-+ ["Nhà bác học", thiên tài và trí tưởng tượng](./post/polymath-genius-imagination.md)
++ ["Nhà bác học", thiên tài và trí tưởng tượng](./contents/post/polymath-genius-imagination.md)
 
-+ [Lev Tolstoy và toán học](./post/levtolstoy-mathematics.md)
++ [Lev Tolstoy và toán học](./contents/post/levtolstoy-mathematics.md)
 
-+ [Nicolas Bourbaki - Nhà toán học của thế kỉ 20](./post/bourbaki-mathematics.md)
++ [Nicolas Bourbaki - Nhà toán học của thế kỉ 20](./contents/post/bourbaki-mathematics.md)
 
-+ [Số học và cuộc sống](./post/algebra-life.md)
++ [Số học và cuộc sống](./contents/post/algebra-life.md)
 
 ---
 

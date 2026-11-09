@@ -1,6 +1,6 @@
 <!-- css -->
 
-<link rel="stylesheet" href="./_assets/style.css">
+<link rel="stylesheet" href="style.css">
 
 <!-- menu -->
 
@@ -10,11 +10,11 @@
 
 <!-- contents -->
 
-+ [Toán học](./_contents/tag/mathematics.md)
-+ [Vật lý](./_contents/tag/physics.md)
-+ [Viết](./_contents/tag/writing.md)
-+ [Sưu tập](./_contents/tag/collection.md)
-+ [Lịch sử và góc nhìn](./_contents/tag/history.md) 
++ [Toán học](./contents/tag/mathematics.md)
++ [Vật lý](./contents/tag/physics.md)
++ [Viết](./contents/tag/writing.md)
++ [Sưu tập](./contents/tag/collection.md)
++ [Lịch sử và góc nhìn](./contents/tag/history.md) 
 
 ---
 
