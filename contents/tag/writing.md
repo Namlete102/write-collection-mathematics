@@ -31,21 +31,21 @@ h1:before {
 
 <!-- 2026 -->
 
-+ 2026-??-??: [Chứng minh công thức lượng giác bằng công thức Euler cho số phức](https://namlete102.github.io/write-collection-mathematics/draft/trigonomy-euler-complex-number.html)
++ 2026-??-??: [Chứng minh công thức lượng giác bằng công thức Euler cho số phức](https://namlete102.github.io/write-collection-mathematics/contents/draft/trigonomy-euler-complex-number.html)
 
 <p style="margin-left: 30px;">Chứng minh một số công thức lượng giác quen thuộc ở cấp 3 bằng công thức Euler cho số phức.</p>
 
-+ 2026-??-??: [Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](https://namlete102.github.io/write-collection-mathematics/post/binet-proof-matrix.html)
++ 2026-??-??: [Chứng minh dãy số tổng quát Fibonacci bằng lý thuyết ma trận](https://namlete102.github.io/write-collection-mathematics/contents/draft/binet-proof-matrix.html)
 
 <p style="margin-left: 30px;">Ý tưởng chứng minh bài toán được lấy cảm hứng từ bài viết về dãy Fibonacci trên trang Wikipedia, chứng minh tổng quát dãy số Fibonacci bằng lý thuyết ma trận</p>
 
 <!-- 2024 -->
 
-+ 2024-07-29: [Nicolas Bourbaki - Nhà toán học của thế kỉ 20](https://namlete102.github.io/write-collection-mathematics/post/bourbaki-mathematics.html) 
++ 2024-07-29: [Nicolas Bourbaki - Nhà toán học của thế kỉ 20](https://namlete102.github.io/write-collection-mathematics/contents/post/bourbaki-mathematics.html) 
 
 <p style="margin-left: 30px;">Đầu những năm 1930, trong làng Toán xuất hiện cái tên Nikolas Bourbaki, khiến cả làng Toán ngỡ ngàng. Một cái tên viết lại hầu hết lý thuyết Toán học đương đại, và vào các kí hiệu tập rỗng Ø, ký hiệu =>, các khái niệm song ánh, toàn ánh, đơn ánh ...</p>
 
-+ 2024-08-09: [Lev Tolstoy và toán học](https://namlete102.github.io/Write-Collection-Mathematics/post/levtolstoy-mathematics.html)
++ 2024-08-09: [Lev Tolstoy và toán học](https://namlete102.github.io/write-collection-mathematics/contents/post/levtolstoy-mathematics.html)
 
 <p style="margin-left: 30px;">Ai cũng biết Lev Tolstoy là nhà văn lớn của nước Nga (1828 – 1910). Nhưng ít người biết rằng ông đồng thời cũng là tác giả của nhiều bài toán hay. Tư duy văn học hình tượng và tư duy toán học chính xác cùng hòa chung trong bộ óc của ông.</p>
 
